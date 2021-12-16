@@ -36,11 +36,11 @@
       },
       "CHANNEL_ID": {
         "description": "ID of channel, you want people to join before using bot.",
-        "required": false
+        "required": true
       },
       "CHANNEL_NAME": {
         "description": "Username of channel, you want people to join before using bot.",
-        "required": false
+        "required": true
       }
     },
     "addons": [{
